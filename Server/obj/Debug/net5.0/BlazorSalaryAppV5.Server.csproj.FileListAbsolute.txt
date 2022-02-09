@@ -1,0 +1,220 @@
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\obj\Debug\net5.0\BlazorSalaryAppV5.Server.csproj.AssemblyReference.cache
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\obj\Debug\net5.0\BlazorSalaryAppV5.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\obj\Debug\net5.0\BlazorSalaryAppV5.Server.AssemblyInfoInputs.cache
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\obj\Debug\net5.0\BlazorSalaryAppV5.Server.AssemblyInfo.cs
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\obj\Debug\net5.0\BlazorSalaryAppV5.Server.csproj.CoreCompileInputs.cache
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\obj\Debug\net5.0\BlazorSalaryAppV5.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\obj\Debug\net5.0\BlazorSalaryAppV5.Server.RazorAssemblyInfo.cache
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\obj\Debug\net5.0\BlazorSalaryAppV5.Server.RazorAssemblyInfo.cs
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorSalaryAppV5.Client.StaticWebAssets.xml
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\appsettings.Development.json
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\appsettings.json
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorSalaryAppV5.Server.StaticWebAssets.xml
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorSalaryAppV5.Server.exe
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorSalaryAppV5.Server.deps.json
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorSalaryAppV5.Server.runtimeconfig.json
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorSalaryAppV5.Server.runtimeconfig.dev.json
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorSalaryAppV5.Server.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\ref\BlazorSalaryAppV5.Server.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorSalaryAppV5.Server.pdb
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorSalaryAppV5.Server.Views.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorSalaryAppV5.Server.Views.pdb
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.JSInterop.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Syncfusion.Blazor.Buttons.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Syncfusion.Blazor.Calendars.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Syncfusion.Blazor.Core.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Syncfusion.Blazor.Data.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Syncfusion.Blazor.DropDowns.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Syncfusion.Blazor.Grids.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Syncfusion.Blazor.Inputs.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Syncfusion.Blazor.Lists.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Syncfusion.Blazor.Navigations.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Syncfusion.Blazor.Popups.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Syncfusion.Blazor.Spinner.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Syncfusion.Blazor.SplitButtons.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Syncfusion.Blazor.Themes.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Syncfusion.ExcelExport.Net.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Syncfusion.Licensing.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Syncfusion.PdfExport.Net.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\System.Text.Json.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorSalaryAppV5.Client.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorSalaryAppV5.Shared.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorSalaryAppV5.Client.pdb
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorSalaryAppV5.Shared.pdb
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\obj\Debug\net5.0\staticwebassets\BlazorSalaryAppV5.Server.StaticWebAssets.Manifest.cache
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\obj\Debug\net5.0\staticwebassets\BlazorSalaryAppV5.Server.StaticWebAssets.xml
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\obj\Debug\net5.0\scopedcss\bundle\BlazorSalaryAppV5.Server.styles.css
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\obj\Debug\net5.0\BlazorSalaryAppV5.Server.TagHelpers.input.cache
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\obj\Debug\net5.0\BlazorSalaryAppV5.Server.TagHelpers.output.cache
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\obj\Debug\net5.0\BlazorSalaryAppV5.Server.RazorCoreGenerate.cache
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\obj\Debug\net5.0\BlazorSalaryAppV5.Server.RazorTargetAssemblyInfo.cache
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\obj\Debug\net5.0\BlazorSalaryAppV5.Server.RazorTargetAssemblyInfo.cs
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\obj\Debug\net5.0\BlazorSalaryAppV5.Server.Views.pdb
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\obj\Debug\net5.0\BlazorSalaryAppV5.Server.csproj.CopyComplete
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\obj\Debug\net5.0\BlazorSalaryAppV5.Server.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\obj\Debug\net5.0\ref\BlazorSalaryAppV5.Server.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\obj\Debug\net5.0\BlazorSalaryAppV5.Server.pdb
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\obj\Debug\net5.0\BlazorSalaryAppV5.Server.genruntimeconfig.cache
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Humanizer.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\appsettings.Development.json
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorSalaryAppV5.Client.StaticWebAssets.xml
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\appsettings.json
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorSalaryAppV5.Server.StaticWebAssets.xml
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorSalaryAppV5.Server.exe
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorSalaryAppV5.Server.deps.json
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorSalaryAppV5.Server.runtimeconfig.json
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorSalaryAppV5.Server.runtimeconfig.dev.json
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorSalaryAppV5.Server.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\ref\BlazorSalaryAppV5.Server.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorSalaryAppV5.Server.pdb
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorSalaryAppV5.Server.Views.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorSalaryAppV5.Server.Views.pdb
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Humanizer.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.JSInterop.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Syncfusion.Blazor.Buttons.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Syncfusion.Blazor.Calendars.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Syncfusion.Blazor.Core.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Syncfusion.Blazor.Data.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Syncfusion.Blazor.DropDowns.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Syncfusion.Blazor.Grids.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Syncfusion.Blazor.Inputs.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Syncfusion.Blazor.Lists.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Syncfusion.Blazor.Navigations.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Syncfusion.Blazor.Popups.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Syncfusion.Blazor.Spinner.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Syncfusion.Blazor.SplitButtons.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Syncfusion.Blazor.Themes.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Syncfusion.ExcelExport.Net.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Syncfusion.Licensing.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\Syncfusion.PdfExport.Net.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\System.Text.Json.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorSalaryAppV5.Client.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorSalaryAppV5.Shared.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorSalaryAppV5.Client.pdb
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\bin\Debug\net5.0\BlazorSalaryAppV5.Shared.pdb
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\obj\Debug\net5.0\BlazorSalaryAppV5.Server.csproj.AssemblyReference.cache
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\obj\Debug\net5.0\BlazorSalaryAppV5.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\obj\Debug\net5.0\BlazorSalaryAppV5.Server.AssemblyInfoInputs.cache
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\obj\Debug\net5.0\BlazorSalaryAppV5.Server.AssemblyInfo.cs
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\obj\Debug\net5.0\BlazorSalaryAppV5.Server.csproj.CoreCompileInputs.cache
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\obj\Debug\net5.0\BlazorSalaryAppV5.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\obj\Debug\net5.0\BlazorSalaryAppV5.Server.RazorAssemblyInfo.cache
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\obj\Debug\net5.0\BlazorSalaryAppV5.Server.RazorAssemblyInfo.cs
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\obj\Debug\net5.0\staticwebassets\BlazorSalaryAppV5.Server.StaticWebAssets.Manifest.cache
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\obj\Debug\net5.0\staticwebassets\BlazorSalaryAppV5.Server.StaticWebAssets.xml
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\obj\Debug\net5.0\scopedcss\bundle\BlazorSalaryAppV5.Server.styles.css
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\obj\Debug\net5.0\BlazorSalaryAppV5.Server.TagHelpers.input.cache
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\obj\Debug\net5.0\BlazorSalaryAppV5.Server.TagHelpers.output.cache
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\obj\Debug\net5.0\BlazorSalaryAppV5.Server.RazorCoreGenerate.cache
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\obj\Debug\net5.0\BlazorSalaryAppV5.Server.RazorTargetAssemblyInfo.cache
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\obj\Debug\net5.0\BlazorSalaryAppV5.Server.RazorTargetAssemblyInfo.cs
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\obj\Debug\net5.0\BlazorSalaryAppV5.Server.Views.pdb
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\obj\Debug\net5.0\BlazorSalaryAppV5.Server.csproj.CopyComplete
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\obj\Debug\net5.0\BlazorSalaryAppV5.Server.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\obj\Debug\net5.0\ref\BlazorSalaryAppV5.Server.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\obj\Debug\net5.0\BlazorSalaryAppV5.Server.pdb
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Server\obj\Debug\net5.0\BlazorSalaryAppV5.Server.genruntimeconfig.cache

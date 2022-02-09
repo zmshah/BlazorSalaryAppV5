@@ -1,0 +1,24 @@
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Shared\bin\Debug\net5.0\BlazorSalaryAppV5.Shared.deps.json
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Shared\bin\Debug\net5.0\BlazorSalaryAppV5.Shared.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Shared\bin\Debug\net5.0\ref\BlazorSalaryAppV5.Shared.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Shared\bin\Debug\net5.0\BlazorSalaryAppV5.Shared.pdb
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Shared\obj\Debug\net5.0\BlazorSalaryAppV5.Shared.csproj.AssemblyReference.cache
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Shared\obj\Debug\net5.0\BlazorSalaryAppV5.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Shared\obj\Debug\net5.0\BlazorSalaryAppV5.Shared.AssemblyInfoInputs.cache
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Shared\obj\Debug\net5.0\BlazorSalaryAppV5.Shared.AssemblyInfo.cs
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Shared\obj\Debug\net5.0\BlazorSalaryAppV5.Shared.csproj.CoreCompileInputs.cache
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Shared\obj\Debug\net5.0\BlazorSalaryAppV5.Shared.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Shared\obj\Debug\net5.0\ref\BlazorSalaryAppV5.Shared.dll
+D:\Computer Science\CIS 680\Phase 1\BlazorSalaryAppV5\Shared\obj\Debug\net5.0\BlazorSalaryAppV5.Shared.pdb
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Shared\bin\Debug\net5.0\BlazorSalaryAppV5.Shared.deps.json
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Shared\bin\Debug\net5.0\BlazorSalaryAppV5.Shared.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Shared\bin\Debug\net5.0\ref\BlazorSalaryAppV5.Shared.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Shared\bin\Debug\net5.0\BlazorSalaryAppV5.Shared.pdb
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Shared\obj\Debug\net5.0\BlazorSalaryAppV5.Shared.csproj.AssemblyReference.cache
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Shared\obj\Debug\net5.0\BlazorSalaryAppV5.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Shared\obj\Debug\net5.0\BlazorSalaryAppV5.Shared.AssemblyInfoInputs.cache
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Shared\obj\Debug\net5.0\BlazorSalaryAppV5.Shared.AssemblyInfo.cs
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Shared\obj\Debug\net5.0\BlazorSalaryAppV5.Shared.csproj.CoreCompileInputs.cache
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Shared\obj\Debug\net5.0\BlazorSalaryAppV5.Shared.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Shared\obj\Debug\net5.0\ref\BlazorSalaryAppV5.Shared.dll
+D:\Computer Science\ComputerScience\Projects\BlazorSalaryAppV5\Shared\obj\Debug\net5.0\BlazorSalaryAppV5.Shared.pdb

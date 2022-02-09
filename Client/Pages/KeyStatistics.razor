@@ -1,0 +1,24 @@
+﻿@page "/keyStatistics"
+@using BlazorSalaryAppV5.Shared
+@using Syncfusion.Blazor.Grids
+
+<h3>Key Statistics</h3>
+
+<p></p>
+
+<p>Mean: @Salaries.Max()</p>
+<p>Median: </p>
+<p>Minimum: </p>
+<p>Maximum: </p>
+
+@code {
+    public List<SalaryData> Salaries { get; set; }
+
+    [Inject]
+    public ISalaryService SalaryService { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        Salaries = (await SalaryService.GetSalaries()).ToList();
+    }
+}

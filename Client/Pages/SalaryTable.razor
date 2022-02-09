@@ -1,0 +1,242 @@
+﻿@page "/salaryTable"
+@using BlazorSalaryAppV5.Shared
+@using Syncfusion.Blazor.Grids
+
+@{ 
+    var Search = new List<string>() { "Search" };
+    var SearchColumns = new string[] { "ID", "Department", "College", "Division", "JobTitle" };
+}
+
+@*Create a grid table*@
+<SfGrid DataSource="@Salaries" AllowPaging="true" AllowSorting="true" AllowFiltering="true" Toolbar="Search">
+
+    @*Sort functions*@
+    <GridSortSettings AllowUnsort="false">
+        <GridSortColumns>
+            <GridSortColumn Field="ID" Direction="SortDirection.Ascending"></GridSortColumn>
+        </GridSortColumns>
+    </GridSortSettings>
+
+    @*Filter functins*@
+    <GridFilterSettings Mode="FilterBarMode.Immediate" Type="Syncfusion.Blazor.Grids.FilterType.Menu"></GridFilterSettings>
+
+    @*Page functions*@
+    <GridPageSettings PageSize="10" PageSizes="true"></GridPageSettings>
+
+    @*Search functions*@
+    <GridSearchSettings Operator="Operator.Contains" Fields="@SearchColumns"></GridSearchSettings>
+
+    @*Aggregate functions*@
+
+
+    <GridAggregates>
+        
+        <GridAggregate>
+            <GridAggregateColumns>
+
+                @*Total PayYearly*@
+                <GridAggregateColumn Field="@nameof(SalaryData.PayYearly)" Type="AggregateType.Sum" Format="C2">
+                    <FooterTemplate>
+                        @{
+                            var aggregate = (context as AggregateTemplateContext);
+                            <div>
+                                <p>Sum: @aggregate.Sum</p>
+                            </div>
+                        }
+                    </FooterTemplate>
+                </GridAggregateColumn>
+
+                @*Total PayYTD*@
+                <GridAggregateColumn Field="@nameof(SalaryData.PayYTD)" Type="AggregateType.Sum" Format="C2">
+                    <FooterTemplate>
+                        @{
+                            var aggregate = (context as AggregateTemplateContext);
+                            <div>
+                                <p>Sum: @aggregate.Sum</p>
+                            </div>
+                        }
+                    </FooterTemplate>
+                </GridAggregateColumn>
+            </GridAggregateColumns>
+        </GridAggregate>
+
+        
+        <GridAggregate>
+            <GridAggregateColumns>
+
+                @*Mean PayYearly*@
+                <GridAggregateColumn Field="@nameof(SalaryData.PayYearly)" Type="AggregateType.Average" Format="C2">
+                    <FooterTemplate>
+                        @{
+                            var aggregate = (context as AggregateTemplateContext);
+                            <div>
+                                <p>Mean: @aggregate.Average</p>
+                            </div>
+                        }
+                    </FooterTemplate>
+                </GridAggregateColumn>
+
+                @*Mean PayYTD*@
+                <GridAggregateColumn Field="@nameof(SalaryData.PayYTD)" Type="AggregateType.Average" Format="C2">
+                    <FooterTemplate>
+                        @{
+                            var aggregate = (context as AggregateTemplateContext);
+                            <div>
+                                <p>Mean: @aggregate.Average</p>
+                            </div>
+                        }
+                    </FooterTemplate>
+                </GridAggregateColumn>
+            </GridAggregateColumns>
+        </GridAggregate>
+
+
+        
+        <GridAggregate>
+            <GridAggregateColumns>
+                @*Min PayYearly*@
+                <GridAggregateColumn Field="@nameof(SalaryData.PayYearly)" Type="AggregateType.Min" Format="C2">
+                    <FooterTemplate>
+                        @{
+                            var aggregate = (context as AggregateTemplateContext);
+                            <div>
+                                <p>Minimum: @aggregate.Min</p>
+                            </div>
+                        }
+                    </FooterTemplate>
+                </GridAggregateColumn>
+
+                @*Min PayYTD*@
+                <GridAggregateColumn Field="@nameof(SalaryData.PayYTD)" Type="AggregateType.Min" Format="C2">
+                    <FooterTemplate>
+                        @{
+                            var aggregate = (context as AggregateTemplateContext);
+                            <div>
+                                <p>Minumum: @aggregate.Min</p>
+                            </div>
+                        }
+                    </FooterTemplate>
+                </GridAggregateColumn>
+            </GridAggregateColumns>
+        </GridAggregate>
+
+        
+        <GridAggregate>
+            <GridAggregateColumns>
+                @*Max PayYearly*@
+                <GridAggregateColumn Field="@nameof(SalaryData.PayYearly)" Type="AggregateType.Max" Format="C2">
+                    <FooterTemplate>
+                        @{
+                            var aggregate = (context as AggregateTemplateContext);
+                            <div>
+                                <p>Maximum: @aggregate.Max</p>
+                            </div>
+                        }
+                    </FooterTemplate>
+                </GridAggregateColumn>
+
+                @*Max PayYTD*@
+                <GridAggregateColumn Field="@nameof(SalaryData.PayYTD)" Type="AggregateType.Max" Format="C2">
+                    <FooterTemplate>
+                        @{
+                            var aggregate = (context as AggregateTemplateContext);
+                            <div>
+                                <p>Maximum: @aggregate.Max</p>
+                            </div>
+                        }
+                    </FooterTemplate>
+                </GridAggregateColumn>
+            </GridAggregateColumns>
+        </GridAggregate>
+
+        <GridAggregate>
+            <GridAggregateColumns>
+                @*Custom aggregate*@
+                <GridAggregateColumn Field="@nameof(SalaryData.PayYearly)" Type="AggregateType.Custom">
+                    <FooterTemplate>
+                        @{
+                            //var aggregate = (context as AggregateTemplateContext);
+                            <div>
+                                <p>Median: @GetMedianPayYearly()</p>
+                            </div>
+                        }
+                    </FooterTemplate>
+                </GridAggregateColumn>
+
+                @*Custom aggregate*@
+                <GridAggregateColumn Field="@nameof(SalaryData.PayYTD)" Type="AggregateType.Custom">
+                    <FooterTemplate>
+                        @{
+                            //var aggregate = (context as AggregateTemplateContext);
+                            <div>
+                                <p>Median: @GetMedianPayYTD()</p>
+                            </div>
+                        }
+                    </FooterTemplate>
+                </GridAggregateColumn>
+            </GridAggregateColumns>
+        </GridAggregate>
+
+    </GridAggregates>
+
+    @*The fields are displayed in a datagrid*@
+    <GridColumns>
+        <GridColumn Field=@nameof(SalaryData.ID) HeaderText="Employee ID"></GridColumn>
+        <GridColumn Field=@nameof(SalaryData.Department) HeaderText="Department"
+                    FilterSettings="@(new FilterSettings() { Type = Syncfusion.Blazor.Grids.FilterType.Excel})">
+        </GridColumn>
+        <GridColumn Field=@nameof(SalaryData.College) HeaderText="College"
+                    FilterSettings="@(new FilterSettings() { Type = Syncfusion.Blazor.Grids.FilterType.Excel})">
+
+        </GridColumn>
+        <GridColumn Field=@nameof(SalaryData.Division) HeaderText="Division"
+                    FilterSettings="@(new FilterSettings() { Type = Syncfusion.Blazor.Grids.FilterType.Excel})">
+        </GridColumn>
+        <GridColumn Field=@nameof(SalaryData.JobTitle) HeaderText="Job Title"
+                    FilterSettings="@(new FilterSettings() { Type = Syncfusion.Blazor.Grids.FilterType.Excel})">
+        </GridColumn>
+        <GridColumn Field=@nameof(SalaryData.PayYearly) HeaderText="Pay Yearly"></GridColumn>
+        <GridColumn Field=@nameof(SalaryData.PayYTD) HeaderText="Pay YTD"></GridColumn>
+    </GridColumns>
+</SfGrid>
+
+@code {
+    //Intitializing a list of salaries 
+    public List<SalaryData> Salaries { get; set; }
+
+    public float MedianPayYearly;
+    List<float> salaryList;
+
+    [Inject]
+    public ISalaryService SalaryService { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        Salaries = (await SalaryService.GetSalaries()).ToList();
+    }
+
+    public string GetMedianPayYearly()
+    {
+        //Salaries = (await SalaryService.GetSalaries()).ToList();
+        //List<float> salaryList = Salaries.Select(x => x.PayYearly).ToList();
+        salaryList = Salaries.Select(x => x.PayYearly).ToList();
+        salaryList.Sort();
+        int size = salaryList.Count();
+        int mid = size / 2;
+        MedianPayYearly = (size % 2 != 0) ? (float)salaryList[mid] : ((float)salaryList[mid] + (float)salaryList[mid - 1]) / 2;
+        return "$" + MedianPayYearly.ToString();
+    }
+    public string GetMedianPayYTD()
+    {
+        //Salaries = (await SalaryService.GetSalaries()).ToList();
+        //List<float> salaryList = Salaries.Select(x => x.PayYearly).ToList();
+        salaryList = Salaries.Select(x => x.PayYTD).ToList();
+        salaryList.Sort();
+        int size = salaryList.Count();
+        int mid = size / 2;
+        MedianPayYearly = (size % 2 != 0) ? (float)salaryList[mid] : ((float)salaryList[mid] + (float)salaryList[mid - 1]) / 2;
+        return "$" + MedianPayYearly.ToString();
+    }
+
+
+}

@@ -1,0 +1,44 @@
+﻿@page "/"
+
+<h1>Salary Application using Blazor</h1>
+
+CIS 680: Software Engineering Project
+
+@*<SurveyPrompt Title="How is Blazor working for you?" />*@
+
+
+@*
+    @page "/"
+    @using BlazorSalaryAppV5.Shared
+    @using Syncfusion.Blazor.Grids
+
+    <SfGrid DataSource="@Salaries" AllowPaging="true" AllowSorting="true">
+        <GridSortSettings AllowUnsort="false">
+            <GridSortColumns>
+                <GridSortColumn Field="ID" Direction="SortDirection.Descending"></GridSortColumn>
+            </GridSortColumns>
+        </GridSortSettings>
+        <GridPageSettings PageSize="10" PageSizes="true"></GridPageSettings>
+        <GridColumns>
+            <GridColumn Field=@nameof(SalaryData.ID) HeaderText="Employee ID"></GridColumn>
+            <GridColumn Field=@nameof(SalaryData.Department) HeaderText="Department"></GridColumn>
+            <GridColumn Field=@nameof(SalaryData.College) HeaderText="College"></GridColumn>
+            <GridColumn Field=@nameof(SalaryData.Division) HeaderText="Division"></GridColumn>
+            <GridColumn Field=@nameof(SalaryData.JobTitle) HeaderText="Job Title"></GridColumn>
+            <GridColumn Field=@nameof(SalaryData.PayYearly) HeaderText="Pay Yearly"></GridColumn>
+            <GridColumn Field=@nameof(SalaryData.PayYTD) HeaderText="Pay YTD"></GridColumn>
+        </GridColumns>
+    </SfGrid>
+
+    @code {
+        public List<SalaryData> Salaries { get; set; }
+
+        [Inject]
+        public ISalaryService SalaryService { get; set; }
+
+        protected override async Task OnInitializedAsync()
+        {
+            Salaries = (await SalaryService.GetSalaries()).ToList();
+        }
+
+    }*@
