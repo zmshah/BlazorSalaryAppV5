@@ -10,6 +10,8 @@
 @*Create a grid table*@
 <SfGrid DataSource="@Salaries" AllowPaging="true" AllowSorting="true" AllowFiltering="true" Toolbar="Search">
 
+    <GridEditSettings AllowAdding="true" AllowEditing="true" AllowDeleting="true"></GridEditSettings>
+
     @*Sort functions*@
     <GridSortSettings AllowUnsort="false">
         <GridSortColumns>
@@ -30,7 +32,7 @@
 
 
     <GridAggregates>
-        
+
         <GridAggregate>
             <GridAggregateColumns>
 
@@ -60,7 +62,7 @@
             </GridAggregateColumns>
         </GridAggregate>
 
-        
+
         <GridAggregate>
             <GridAggregateColumns>
 
@@ -91,7 +93,7 @@
         </GridAggregate>
 
 
-        
+
         <GridAggregate>
             <GridAggregateColumns>
                 @*Min PayYearly*@
@@ -120,7 +122,7 @@
             </GridAggregateColumns>
         </GridAggregate>
 
-        
+
         <GridAggregate>
             <GridAggregateColumns>
                 @*Max PayYearly*@

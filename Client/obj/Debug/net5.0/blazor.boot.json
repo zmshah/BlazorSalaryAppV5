@@ -213,12 +213,12 @@
       "netstandard.dll": "sha256-4Ejn1oHpeqmTQlJx7Kjuipn0ZVOoG0hGncN+9qyL1lo=",
       "System.Private.CoreLib.dll": "sha256-7n\/jioZu+\/2tD7v1RgjTTrBrviX+kVwPFGJ\/JBsHQGA=",
       "BlazorSalaryAppV5.Shared.dll": "sha256-oDQ6wbBcnMM7DqIubz7eLuceAv0cz3hv83cmSV+dIUk=",
-      "BlazorSalaryAppV5.Client.dll": "sha256-mNl46w9eLAjbNVms7uJ+TdztF1QJeLJZr0CkODtviNY="
+      "BlazorSalaryAppV5.Client.dll": "sha256-ESZnyR+NISbBvfIarVYfoJA75a99W0kWetpmktT260c="
     },
     "lazyAssembly": null,
     "pdb": {
       "BlazorSalaryAppV5.Shared.pdb": "sha256-iEGw0msIUdKFsgBs7w5kEB4dG8Jy2W1ic2BpkZ998ZY=",
-      "BlazorSalaryAppV5.Client.pdb": "sha256-dXgMtyFFYeBbDvQIFLLOGtBM7efl2qHxZxmYUCPAGZQ="
+      "BlazorSalaryAppV5.Client.pdb": "sha256-qUjDwwMgoDshr1gU6QrfvaX8eSvFiI4PqYtwPbCHyFg="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-Uv0JiOiPEvlGxygIhcdY8XYm\/Nt+zgVckKrqB2uih0w=",

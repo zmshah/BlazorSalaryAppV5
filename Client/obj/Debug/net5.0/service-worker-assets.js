@@ -233,7 +233,7 @@
       "url": "_content\/Syncfusion.Blazor.Grid\/scripts\/sf-grid-d2f564.min.js"
     },
     {
-      "hash": "sha256-9vMN5V7KZUDc8qRtPK72pwDe\/OVzK9hgxhPScJZ3ctg=",
+      "hash": "sha256-RAzSOEkGD8NBPNtaJjbzFsiOQCmqeEPmpk6T3J7IY20=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -1093,11 +1093,11 @@
       "url": "_framework\/BlazorSalaryAppV5.Shared.pdb"
     },
     {
-      "hash": "sha256-mNl46w9eLAjbNVms7uJ+TdztF1QJeLJZr0CkODtviNY=",
+      "hash": "sha256-ESZnyR+NISbBvfIarVYfoJA75a99W0kWetpmktT260c=",
       "url": "_framework\/BlazorSalaryAppV5.Client.dll"
     },
     {
-      "hash": "sha256-dXgMtyFFYeBbDvQIFLLOGtBM7efl2qHxZxmYUCPAGZQ=",
+      "hash": "sha256-qUjDwwMgoDshr1gU6QrfvaX8eSvFiI4PqYtwPbCHyFg=",
       "url": "_framework\/BlazorSalaryAppV5.Client.pdb"
     },
     {
@@ -2029,5 +2029,5 @@
       "url": "BlazorSalaryAppV5.Client.bundle.scp.css"
     }
   ],
-  "version": "EeIagx8x"
+  "version": "XdFnx6oy"
 };
