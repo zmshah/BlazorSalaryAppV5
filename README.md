@@ -5,4 +5,6 @@ The data is displayed on a grid table with the ability to sort, search and filte
 
 ![alt text](mainscreenshot.PNG)
 
+Demo:
+
 ![alt text](blazor.gif)
